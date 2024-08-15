@@ -115,7 +115,6 @@ export const Projects = () => {
                     <Row>
                       
                         {
-                       
                               projects.map((project, index) => {
                                 return (
                                   <ProjectCard
